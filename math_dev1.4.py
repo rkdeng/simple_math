@@ -264,7 +264,7 @@ while run:
       if question_left > 0:
         if question_left > 1:
           txt_tmp, ans_tmp = new_question()
-          print('new question')
+          #print('new question')
         question_left -= 1
  
       input_str = []
