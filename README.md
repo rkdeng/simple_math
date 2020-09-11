@@ -1,7 +1,8 @@
 # simple_math
  A simple math pygame for my boy.  
  Rescue the cat from the poop alien by answering math questions. :)  
- Right now, the questions are only addition and subtraction. You can change them to other types of questions in the code. Developed in python 3.6.8 and pygame 1.9.6. 
+ Right now, the questions are only addition and subtraction. You can change them to other types of questions in the code. Developed in python 3.6.8 and pygame 1.9.6.  
+ 
  <img src="readme_img/1.png">  
  <img src="readme_img/2.png">  
  <img src="readme_img/3.png">  
