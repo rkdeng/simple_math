@@ -1,5 +1,5 @@
 # simple_math
- A simple math pygame for my boy.  
+ A simple math game.  
  Rescue the cat from the poop alien by answering math questions. :)  
  Right now, the questions are only addition and subtraction. You can change them to other types of questions in the code. Developed in python 3.6.8 and pygame 1.9.6.  
  
